@@ -1,0 +1,46 @@
+C:\Users\Lenovo\source\repos\multipleregression\multipleregression\bin\Debug\net6.0-windows\multipleregression.exe
+C:\Users\Lenovo\source\repos\multipleregression\multipleregression\bin\Debug\net6.0-windows\Accord.dll.config
+C:\Users\Lenovo\source\repos\multipleregression\multipleregression\bin\Debug\net6.0-windows\multipleregression.deps.json
+C:\Users\Lenovo\source\repos\multipleregression\multipleregression\bin\Debug\net6.0-windows\multipleregression.runtimeconfig.json
+C:\Users\Lenovo\source\repos\multipleregression\multipleregression\bin\Debug\net6.0-windows\multipleregression.dll
+C:\Users\Lenovo\source\repos\multipleregression\multipleregression\bin\Debug\net6.0-windows\multipleregression.pdb
+C:\Users\Lenovo\source\repos\multipleregression\multipleregression\bin\Debug\net6.0-windows\Accord.dll
+C:\Users\Lenovo\source\repos\multipleregression\multipleregression\bin\Debug\net6.0-windows\Accord.Math.Core.dll
+C:\Users\Lenovo\source\repos\multipleregression\multipleregression\bin\Debug\net6.0-windows\Accord.Math.dll
+C:\Users\Lenovo\source\repos\multipleregression\multipleregression\bin\Debug\net6.0-windows\Accord.Statistics.dll
+C:\Users\Lenovo\source\repos\multipleregression\multipleregression\obj\Debug\net6.0-windows\multipleregression.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\multipleregression\multipleregression\obj\Debug\net6.0-windows\multipleregression.Form1.resources
+C:\Users\Lenovo\source\repos\multipleregression\multipleregression\obj\Debug\net6.0-windows\multipleregression.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\multipleregression\multipleregression\obj\Debug\net6.0-windows\multipleregression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\multipleregression\multipleregression\obj\Debug\net6.0-windows\multipleregression.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\multipleregression\multipleregression\obj\Debug\net6.0-windows\multipleregression.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\multipleregression\multipleregression\obj\Debug\net6.0-windows\multipleregression.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\multipleregression\multipleregression\obj\Debug\net6.0-windows\multipleregression.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\multipleregression\multipleregression\obj\Debug\net6.0-windows\multipleregression.dll
+C:\Users\Lenovo\source\repos\multipleregression\multipleregression\obj\Debug\net6.0-windows\refint\multipleregression.dll
+C:\Users\Lenovo\source\repos\multipleregression\multipleregression\obj\Debug\net6.0-windows\multipleregression.pdb
+C:\Users\Lenovo\source\repos\multipleregression\multipleregression\obj\Debug\net6.0-windows\multipleregression.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\multipleregression\multipleregression\obj\Debug\net6.0-windows\ref\multipleregression.dll
+C:\GIT_COPY\Intelli System\RJJ_multiple_regression\multipleregression\bin\Debug\net6.0-windows\multipleregression.exe
+C:\GIT_COPY\Intelli System\RJJ_multiple_regression\multipleregression\bin\Debug\net6.0-windows\Accord.dll.config
+C:\GIT_COPY\Intelli System\RJJ_multiple_regression\multipleregression\bin\Debug\net6.0-windows\multipleregression.deps.json
+C:\GIT_COPY\Intelli System\RJJ_multiple_regression\multipleregression\bin\Debug\net6.0-windows\multipleregression.runtimeconfig.json
+C:\GIT_COPY\Intelli System\RJJ_multiple_regression\multipleregression\bin\Debug\net6.0-windows\multipleregression.dll
+C:\GIT_COPY\Intelli System\RJJ_multiple_regression\multipleregression\bin\Debug\net6.0-windows\multipleregression.pdb
+C:\GIT_COPY\Intelli System\RJJ_multiple_regression\multipleregression\bin\Debug\net6.0-windows\Accord.dll
+C:\GIT_COPY\Intelli System\RJJ_multiple_regression\multipleregression\bin\Debug\net6.0-windows\Accord.Math.Core.dll
+C:\GIT_COPY\Intelli System\RJJ_multiple_regression\multipleregression\bin\Debug\net6.0-windows\Accord.Math.dll
+C:\GIT_COPY\Intelli System\RJJ_multiple_regression\multipleregression\bin\Debug\net6.0-windows\Accord.Statistics.dll
+C:\GIT_COPY\Intelli System\RJJ_multiple_regression\multipleregression\obj\Debug\net6.0-windows\multipleregression.csproj.AssemblyReference.cache
+C:\GIT_COPY\Intelli System\RJJ_multiple_regression\multipleregression\obj\Debug\net6.0-windows\multipleregression.Form1.resources
+C:\GIT_COPY\Intelli System\RJJ_multiple_regression\multipleregression\obj\Debug\net6.0-windows\multipleregression.csproj.GenerateResource.cache
+C:\GIT_COPY\Intelli System\RJJ_multiple_regression\multipleregression\obj\Debug\net6.0-windows\multipleregression.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT_COPY\Intelli System\RJJ_multiple_regression\multipleregression\obj\Debug\net6.0-windows\multipleregression.AssemblyInfoInputs.cache
+C:\GIT_COPY\Intelli System\RJJ_multiple_regression\multipleregression\obj\Debug\net6.0-windows\multipleregression.AssemblyInfo.cs
+C:\GIT_COPY\Intelli System\RJJ_multiple_regression\multipleregression\obj\Debug\net6.0-windows\multipleregression.csproj.CoreCompileInputs.cache
+C:\GIT_COPY\Intelli System\RJJ_multiple_regression\multipleregression\obj\Debug\net6.0-windows\multipleregression.csproj.CopyComplete
+C:\GIT_COPY\Intelli System\RJJ_multiple_regression\multipleregression\obj\Debug\net6.0-windows\multipleregression.dll
+C:\GIT_COPY\Intelli System\RJJ_multiple_regression\multipleregression\obj\Debug\net6.0-windows\refint\multipleregression.dll
+C:\GIT_COPY\Intelli System\RJJ_multiple_regression\multipleregression\obj\Debug\net6.0-windows\multipleregression.pdb
+C:\GIT_COPY\Intelli System\RJJ_multiple_regression\multipleregression\obj\Debug\net6.0-windows\multipleregression.genruntimeconfig.cache
+C:\GIT_COPY\Intelli System\RJJ_multiple_regression\multipleregression\obj\Debug\net6.0-windows\ref\multipleregression.dll

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "QF8LFM4REkJwR5HhVUkoGFvHLpi40gEh0Zw5Qj9Ivqw99Fot4dPRMF/aPO7Xkdm2kRXR1PzVsSxKieaklfPdfg==",
+  "success": true,
+  "projectFilePath": "C:\\GIT_COPY\\Intelli System\\RJJ_multiple_regression\\multipleregression\\multipleregression.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\milkstard\\.nuget\\packages\\accord\\3.8.0\\accord.3.8.0.nupkg.sha512",
+    "C:\\Users\\milkstard\\.nuget\\packages\\accord.math\\3.8.0\\accord.math.3.8.0.nupkg.sha512",
+    "C:\\Users\\milkstard\\.nuget\\packages\\accord.statistics\\3.8.0\\accord.statistics.3.8.0.nupkg.sha512"
+  ],
+  "logs": []
+}
